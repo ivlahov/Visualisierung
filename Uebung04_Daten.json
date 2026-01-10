@@ -1,0 +1,254 @@
+[
+    {
+        "Stadt": "Köln",
+        "Tag": 1,
+        "Zeit": "morgens",
+        "Verkäufe": 1184
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 1,
+        "Zeit": "mittags",
+        "Verkäufe": 444
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 1,
+        "Zeit": "abends",
+        "Verkäufe": 1133
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 2,
+        "Zeit": "morgens",
+        "Verkäufe": 1058
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 2,
+        "Zeit": "mittags",
+        "Verkäufe": 818
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 2,
+        "Zeit": "abends",
+        "Verkäufe": 558
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 3,
+        "Zeit": "morgens",
+        "Verkäufe": 388
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 3,
+        "Zeit": "mittags",
+        "Verkäufe": 1080
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 3,
+        "Zeit": "abends",
+        "Verkäufe": 1232
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 4,
+        "Zeit": "morgens",
+        "Verkäufe": 513
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 4,
+        "Zeit": "mittags",
+        "Verkäufe": 1253
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 4,
+        "Zeit": "abends",
+        "Verkäufe": 1030
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 5,
+        "Zeit": "morgens",
+        "Verkäufe": 1201
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 5,
+        "Zeit": "mittags",
+        "Verkäufe": 652
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 5,
+        "Zeit": "abends",
+        "Verkäufe": 756
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 6,
+        "Zeit": "morgens",
+        "Verkäufe": 641
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 6,
+        "Zeit": "mittags",
+        "Verkäufe": 1272
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 6,
+        "Zeit": "abends",
+        "Verkäufe": 606
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 7,
+        "Zeit": "morgens",
+        "Verkäufe": 805
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 7,
+        "Zeit": "mittags",
+        "Verkäufe": 349
+    },
+    {
+        "Stadt": "Köln",
+        "Tag": 7,
+        "Zeit": "abends",
+        "Verkäufe": 481
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 1,
+        "Zeit": "morgens",
+        "Verkäufe": 759
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 1,
+        "Zeit": "mittags",
+        "Verkäufe": 359
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 1,
+        "Zeit": "abends",
+        "Verkäufe": 961
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 2,
+        "Zeit": "morgens",
+        "Verkäufe": 705
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 2,
+        "Zeit": "mittags",
+        "Verkäufe": 415
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 2,
+        "Zeit": "abends",
+        "Verkäufe": 884
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 3,
+        "Zeit": "morgens",
+        "Verkäufe": 1267
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 3,
+        "Zeit": "mittags",
+        "Verkäufe": 853
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 3,
+        "Zeit": "abends",
+        "Verkäufe": 605
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 4,
+        "Zeit": "morgens",
+        "Verkäufe": 1036
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 4,
+        "Zeit": "mittags",
+        "Verkäufe": 633
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 4,
+        "Zeit": "abends",
+        "Verkäufe": 752
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 5,
+        "Zeit": "morgens",
+        "Verkäufe": 953
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 5,
+        "Zeit": "mittags",
+        "Verkäufe": 1240
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 5,
+        "Zeit": "abends",
+        "Verkäufe": 388
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 6,
+        "Zeit": "morgens",
+        "Verkäufe": 695
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 6,
+        "Zeit": "mittags",
+        "Verkäufe": 843
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 6,
+        "Zeit": "abends",
+        "Verkäufe": 432
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 7,
+        "Zeit": "morgens",
+        "Verkäufe": 764
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": 7,
+        "Zeit": "mittags",
+        "Verkäufe": 348
+    },
+    {
+        "Stadt": "Berlin",
+        "Tag": "7",
+        "Zeit": "abends",
+        "Verkäufe": 828
+    }
+]

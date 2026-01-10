@@ -1,0 +1,22 @@
+[
+  {
+    "Stadt": "Berlin",
+    "Anzahl_Kebabläden": 860
+  },
+  {
+    "Stadt": "Koeln",
+    "Anzahl_Kebabläden": 450
+  },
+  {
+    "Stadt": "Muenchen",
+    "Anzahl_Kebabläden": 700
+  },
+  {
+    "Stadt": "Hamburg",
+    "Anzahl_Kebabläden": 200
+  },
+  {
+    "Stadt": "Frankfurt",
+    "Anzahl_Kebabläden": 350
+  }
+]
