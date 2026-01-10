@@ -1,0 +1,72 @@
+[
+  {
+    "Stadt": "Köln",
+    "Kebabläden": 621,
+    "Kunden pro Tag": 1015,
+    "Umsatz pro Tag": 8359,
+    "Meistverkaufter Kebab": "Veggie"
+  },
+  {
+    "Stadt": "Berlin",
+    "Kebabläden": 769,
+    "Kunden pro Tag": 1686,
+    "Umsatz pro Tag": 11518,
+    "Meistverkaufter Kebab": "Hähnchen"
+  },
+  {
+    "Stadt": "Frankfurt",
+    "Kebabläden": 177,
+    "Kunden pro Tag": 1242,
+    "Umsatz pro Tag": 3022,
+    "Meistverkaufter Kebab": "Veggie"
+  },
+  {
+    "Stadt": "Dortmund",
+    "Kebabläden": 808,
+    "Kunden pro Tag": 1653,
+    "Umsatz pro Tag": 10362,
+    "Meistverkaufter Kebab": "Kalb"
+  },
+  {
+    "Stadt": "Hamburg",
+    "Kebabläden": 70,
+    "Kunden pro Tag": 1188,
+    "Umsatz pro Tag": 6406,
+    "Meistverkaufter Kebab": "Kalb"
+  },
+  {
+    "Stadt": "Bremen",
+    "Kebabläden": 134,
+    "Kunden pro Tag": 1110,
+    "Umsatz pro Tag": 7197,
+    "Meistverkaufter Kebab": "Veggie"
+  },
+  {
+    "Stadt": "Leipzig",
+    "Kebabläden": 745,
+    "Kunden pro Tag": 1428,
+    "Umsatz pro Tag": 4798,
+    "Meistverkaufter Kebab": "Hähnchen"
+  },
+  {
+    "Stadt": "München",
+    "Kebabläden": 325,
+    "Kunden pro Tag": 1488,
+    "Umsatz pro Tag": 6272,
+    "Meistverkaufter Kebab": "Kalb"
+  },
+  {
+    "Stadt": "Aachen",
+    "Kebabläden": 686,
+    "Kunden pro Tag": 1191,
+    "Umsatz pro Tag": 9892,
+    "Meistverkaufter Kebab": "Veggie"
+  },
+  {
+    "Stadt": "Freiburg",
+    "Kebabläden": 551,
+    "Kunden pro Tag": 1409,
+    "Umsatz pro Tag": 6299,
+    "Meistverkaufter Kebab": "Veggie"
+  }
+]

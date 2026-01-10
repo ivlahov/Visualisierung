@@ -1,0 +1,62 @@
+[
+    {
+        "Stadt": "Köln",
+        "Jahr": 2020,
+        "Anzahl Kebabläden": 620
+    },
+    {
+        "Stadt": "Köln",
+        "Jahr": 2021,
+        "Anzahl Kebabläden": 315
+    },
+    {
+        "Stadt": "Köln",
+        "Jahr": 2022,
+        "Anzahl Kebabläden": 360
+    },
+    {
+        "Stadt": "Köln",
+        "Jahr": 2023,
+        "Anzahl Kebabläden": 420
+    },
+    {
+        "Stadt": "Köln",
+        "Jahr": 2024,
+        "Anzahl Kebabläden": 395
+    },
+    {
+        "Stadt": "Köln",
+        "Jahr": 2025,
+        "Anzahl Kebabläden": 450
+    },
+    {
+        "Stadt": "Berlin",
+        "Jahr": 2020,
+        "Anzahl Kebabläden": 973
+    },
+    {
+        "Stadt": "Berlin",
+        "Jahr": 2021,
+        "Anzahl Kebabläden": 510
+    },
+    {
+        "Stadt": "Berlin",
+        "Jahr": 2022,
+        "Anzahl Kebabläden": 520
+    },
+    {
+        "Stadt": "Berlin",
+        "Jahr": 2023,
+        "Anzahl Kebabläden": 630
+    },
+    {
+        "Stadt": "Berlin",
+        "Jahr": 2024,
+        "Anzahl Kebabläden": 780
+    },
+    {
+        "Stadt": "Berlin",
+        "Jahr": 2025,
+        "Anzahl Kebabläden": 860
+    }
+]

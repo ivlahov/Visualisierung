@@ -1,0 +1,58 @@
+[
+  {
+    "Stadt": "Berlin",
+    "Anzahl_Kebablaeden": 860
+  },
+  {
+    "Stadt": "Koeln",
+    "Anzahl_Kebablaeden": 450
+  },
+  {
+    "Stadt": "Muenchen",
+    "Anzahl_Kebablaeden": 700
+  },
+  {
+    "Stadt": "Hamburg",
+    "Anzahl_Kebablaeden": 200
+  },
+  {
+    "Stadt": "Frankfurt",
+    "Anzahl_Kebablaeden": 350
+  },
+  {
+    "Stadt": "Aachen",
+    "Anzahl_Kebablaeden": 220
+  },
+  {
+    "Stadt": "Bremen",
+    "Anzahl_Kebablaeden": 530
+  },
+  {
+    "Stadt": "Hannover",
+    "Anzahl_Kebablaeden": 360
+  },
+  {
+    "Stadt": "Dortmund",
+    "Anzahl_Kebablaeden": 755
+  },
+  {
+    "Stadt": "Bochum",
+    "Anzahl_Kebablaeden": 470
+  },
+  {
+    "Stadt": "Stuttgart",
+    "Anzahl_Kebablaeden": 680
+  },
+  {
+    "Stadt": "Freiburg",
+    "Anzahl_Kebablaeden": 410
+  },
+  {
+    "Stadt": "Mainz",
+    "Anzahl_Kebablaeden": 370
+  },
+  {
+    "Stadt": "Dresden",
+    "Anzahl_Kebablaeden": 526
+  }
+]

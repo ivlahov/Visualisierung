@@ -1,0 +1,62 @@
+[
+  {
+    "Bundesland / Messnetz":"Bremen",
+    "Stationscode":"DEHB001",
+    "Stationsname":"Bremen-Mitte",
+    "Stationsumgebung":"städtisches Gebiet",
+    "Art der Station":"Hintergrund",
+    "Feinstaub":8.8,
+    "Kohlenmonoxid":10.0,
+    "Ozon":7.2,
+    "Schwefeldixoid":2.6,
+    "Stickstoffdioxid":8.1
+  },
+  {
+    "Bundesland / Messnetz":"Bremen",
+    "Stationscode":"DEHB005",
+    "Stationsname":"Bremerhaven-Hansastraße",
+    "Stationsumgebung":"städtisches Gebiet",
+    "Art der Station":"Hintergrund",
+    "Feinstaub":6.8,
+    "Kohlenmonoxid":1.4,
+    "Ozon":0.3,
+    "Schwefeldixoid":10.0,
+    "Stickstoffdioxid":2.0
+  },
+  {
+    "Bundesland / Messnetz":"Hessen",
+    "Stationscode":"DEHE001",
+    "Stationsname":"Darmstadt",
+    "Stationsumgebung":"städtisches Gebiet",
+    "Art der Station":"Hintergrund",
+    "Feinstaub":8.8,
+    "Kohlenmonoxid":6.5,
+    "Ozon":6.3,
+    "Schwefeldixoid":0.8,
+    "Stickstoffdioxid":10.0
+  },
+  {
+    "Bundesland / Messnetz":"Rheinland-Pfalz",
+    "Stationscode":"DERP001",
+    "Stationsname":"Ludwigshafen-Oppau",
+    "Stationsumgebung":"städtisches Gebiet",
+    "Art der Station":"Hintergrund",
+    "Feinstaub":10.0,
+    "Kohlenmonoxid":8.8,
+    "Ozon":10.0,
+    "Schwefeldixoid":1.6,
+    "Stickstoffdioxid":8.1
+  },
+  {
+    "Bundesland / Messnetz":"Rheinland-Pfalz",
+    "Stationscode":"DERP019",
+    "Stationsname":"Kaiserslautern-Rathausplatz",
+    "Stationsumgebung":"städtisches Gebiet",
+    "Art der Station":"Hintergrund",
+    "Feinstaub":8.8,
+    "Kohlenmonoxid":7.6,
+    "Ozon":8.3,
+    "Schwefeldixoid":1.2,
+    "Stickstoffdioxid":8.1
+  }
+]
